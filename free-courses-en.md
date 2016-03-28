@@ -183,6 +183,10 @@
 * [Learn Python](https://pythonspot.com)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
+* [Introduction to Programming with python](https://goo.gl/x26dEr)
+* [Programming fundamental with python](https://goo.gl/JEdLMw)
+* [Developing Scalable app with Python](https://goo.gl/EwWZDW)
+* [Introduction to creating webSite using Python and Flask](https://goo.gl/6a97aw)
 
 
 ### R
